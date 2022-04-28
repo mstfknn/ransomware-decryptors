@@ -73,3 +73,7 @@
 -	Xdata
 -	Xorist
 -	Xoristdecryptor
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mstfknn/ransomware-decryptors&type=Date)](https://star-history.com/#mstfknn/ransomware-decryptors&Date)
